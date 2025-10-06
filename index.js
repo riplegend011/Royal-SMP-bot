@@ -43,7 +43,7 @@ client.on("messageCreate", (message) => {
   if (content === "ip") {
     const embed = new EmbedBuilder()
       .setColor("#00FF66")
-      .setTitle("⚙️ Royal SMP ⚙️")
+      .setTitle("👑 Royal SMP 👑 ")
       .setDescription(
         `**JAVA IP :** \`play.royallsmp.fun\`\n` +
         `**BEDROCK IP :** \`play.royallsmp.fun\`\n` +
